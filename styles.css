@@ -1,8 +1,7 @@
-body {
-background-color: red;
-}
+
 
 h1 {
   font-weight: bold;
   font-family: 'Arial', sans-serif;
+  color: green;
 }
